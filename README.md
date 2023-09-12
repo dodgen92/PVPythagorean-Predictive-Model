@@ -7,6 +7,7 @@ A major obstacle faced in competitive gaming is balance. Certain characters/clas
 
 
 ** Example model **
+
 The following is tailored for World of Warcraft arena. Please note the model will require adjustments through playtesting to acheive the lowest possible mean absolute deviation, particularly the dispel factorial and the exponent of R. Though I have used a similar one to the demo to success in selecting arena partners (6x Elite achievements, a version of the model was used in each selection)
 
 
