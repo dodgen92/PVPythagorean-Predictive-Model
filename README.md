@@ -12,3 +12,5 @@ The following is tailored for World of Warcraft arena. Please note the model wil
 
 
 ![pvpythagorean](https://github.com/dodgen92/PVPythagorean-Predictive-Model/assets/58264866/c00fc0f8-a96c-4f5e-9cd7-6798f7c42ca0)
+
+The model will yield a number between 0 and 1.0 that represents the expected win pct. The more data provided, the more accuracy.
